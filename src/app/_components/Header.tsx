@@ -1,12 +1,11 @@
-"use client";
-
+"use client"
 import { FC } from "react";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { useUser, UserButton } from "@clerk/nextjs";
 import Link from "next/link";
 
-const Header:FC = () => {
+const Header: FC = () => {
   const { user, isSignedIn } = useUser();
 
   return (
