@@ -1,6 +1,7 @@
 import { SignUp } from "@clerk/nextjs";
+import { FC } from "react";
 
-const page = () => {
+const page:FC = () => {
   return (
     <div className="h-screen flex justify-center items-center">
       <SignUp />
