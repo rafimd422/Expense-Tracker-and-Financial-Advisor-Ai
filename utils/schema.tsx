@@ -10,3 +10,12 @@ export const Budgets = pgTable('budgets',{
     Icon: varchar('icon'),
     createdBy: varchar('createdBy').notNull()
 })
+
+// Income schema
+export const Incomes = pgTable('incomes',{
+    id: serial('id',).primaryKey(),
+    name: varchar('name').notNull(),
+    amount: varchar('amount').notNull(),
+    Icon: varchar('icon'),
+    createdBy: varchar('createdBy').notNull()
+})
