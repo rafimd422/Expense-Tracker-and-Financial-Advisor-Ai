@@ -21,7 +21,7 @@ export const Incomes = pgTable('incomes',{
 })
 
 // Expenses Schema
-export const Expenses = pgTable('expenses',{
+export const expenses = pgTable('expenses',{
     id: serial('id',).primaryKey(),
     name: varchar('name').notNull(),
     amount: varchar('amount').notNull(),
