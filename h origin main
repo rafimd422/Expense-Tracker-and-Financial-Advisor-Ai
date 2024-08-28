@@ -1,0 +1,83 @@
+[33mcommit 401bcd29259f6bd82e74f5c037b830d4939dd16b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Tue Aug 27 21:40:44 2024 +0600
+
+    integrate Neon database with Drizzle ORM and set up schema
+
+[33mcommit a99955dff9b92038736afd99cf6bcdfae185d1fd[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Tue Aug 27 21:31:27 2024 +0600
+
+    added utility function to format numbers with suffixes (e.g., 1K, 1M)
+
+[33mcommit 02b866365f197ec173a7781b2cdffd9e5bae1331[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Thu Aug 22 15:44:53 2024 +0600
+
+    created schema for budgets
+
+[33mcommit 5d0b9664ab591e1dc332633496c63fd21aff6f27[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Thu Aug 22 15:40:38 2024 +0600
+
+    Created schema for incomes
+
+[33mcommit 7fce7f6e15aa7d8b007122e485b0af339387c99b[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Thu Aug 22 15:39:28 2024 +0600
+
+    created schema for budgets
+
+[33mcommit a54e14ced149c5f0e9ff68a434bb3a81406bd749[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Mon Aug 19 15:06:16 2024 +0600
+
+    setup our  and
+
+[33mcommit 5cbc219845182976d0b5904aa455da8071776be3[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Mon Aug 19 14:53:42 2024 +0600
+
+    installed drizzle-orm with neon
+
+[33mcommit 9c80d4913577fdfda4376193274155390cb49837[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Tue Aug 13 11:15:41 2024 +0600
+
+    created sign-in and signup with clerk
+
+[33mcommit 05e4280fea73747664af1156d28f9c2a036dfabc[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Sat Aug 10 11:00:57 2024 +0600
+
+    complated hero section using
+
+[33mcommit 3ac0608bec29314640662db97380467f3f3f63bf[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Wed Jul 17 15:42:06 2024 +0600
+
+    successfully complated the navbar
+
+[33mcommit b445cb8490a3cbe1d4b3f6c200a08cdfb6331612[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Wed Jul 17 15:18:37 2024 +0600
+
+    installed clerk for authentication and integrated clerk provider
+
+[33mcommit 597c7fef47d48b46180b43ccd837e8995235d6e1[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Tue Jul 16 17:10:33 2024 +0600
+
+    updated meta data and added a button from shadCn
+
+[33mcommit c903290f1040afb494ca8afa6f7817194cf67f3c[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Tue Jul 16 16:58:48 2024 +0600
+
+    Initialization Project by installing nextJS with typescript and shadCN
+
+[33mcommit 6fd9f32b3df1dbbb3069947ab6ef6fd0d020dba2[m
+Author: rafimd422 <rafimd2222@gmail.com>
+Date:   Tue Jul 16 16:55:43 2024 +0600
+
+    Initial commit from Create Next App
